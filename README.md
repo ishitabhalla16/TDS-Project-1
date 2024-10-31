@@ -1,6 +1,7 @@
 # TDS-Project-1
 
-GitHub Stockholm User Scrape
+# GitHub Stockholm User Scrape
+
 Scraping Process: Data was scraped using the GitHub API to extract users in Stockholm with over 100 followers and their repository information. Requests were made in batches using pagination, and data was filtered to exclude any invalid or incomplete entries.
 
 Interesting Finding: A significant portion of repositories in Stockholm are written in JavaScript but surprisingly TypeScript is also seen in many repositories.
